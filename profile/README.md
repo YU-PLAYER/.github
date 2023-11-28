@@ -8,9 +8,15 @@
 
 ### Front-End
 
+- [https://github.com/YU-PLAYER/sportspie-web](https://github.com/YU-PLAYER/sportspie-web)
+
 ### Back-End
 
+- [https://github.com/YU-PLAYER/sportspie-was](https://github.com/YU-PLAYER/sportspie-was)
+
 ### Terraform
+
+- [https://github.com/YU-PLAYER/sportspie-terraform](https://github.com/YU-PLAYER/sportspie-terraform)
 
 ## Team Member
 
