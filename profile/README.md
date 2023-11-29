@@ -1,24 +1,32 @@
 # SportsPie
 
-## Tech Stack
+## :hand: Introduce
+
+&nbsp; **SportsPie**는 축구를 좋아하고 사랑하는 이들을 위한 만남의 장을 제공합니다. 간편한 경기 생성, 참여 신청 및 취소, 전적 관리 등의 기능을 제공합니다.
+
+## :soccer: Feture
+
+- 경기 생성 및 참여
+- 전적 조회 및 관리
+- 경기 일정 리마인드
+
+## How to Use
+
+### Service Domain
+
+- [http://www.sportspie.xyz/](http://www.sportspie.xyz/)
+
+## :hammer: Tech Stack
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white"> <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 
-## Repository
+## :file_folder: Repository
 
-### Front-End
+- [Front-End](https://github.com/YU-PLAYER/sportspie-web)
+- [Back-End](https://github.com/YU-PLAYER/sportspie-was)
+- [IaC](https://github.com/YU-PLAYER/sportspie-terraform)
 
-- [https://github.com/YU-PLAYER/sportspie-web](https://github.com/YU-PLAYER/sportspie-web)
-
-### Back-End
-
-- [https://github.com/YU-PLAYER/sportspie-was](https://github.com/YU-PLAYER/sportspie-was)
-
-### Terraform
-
-- [https://github.com/YU-PLAYER/sportspie-terraform](https://github.com/YU-PLAYER/sportspie-terraform)
-
-## Team Member
+## :information_desk_person: Team Member
 
 <table>
     <thead>
