@@ -10,7 +10,7 @@
 - 전적 조회 및 관리
 - 경기 일정 리마인드
 
-## How to Use
+## :heart: How to Use
 
 ### Service Domain
 
