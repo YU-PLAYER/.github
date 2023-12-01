@@ -74,7 +74,7 @@
 
 - `신고하기 페이지` : 사용자가 경기 종료 후 비매너 유저를 신고할 수 있는 페이지다.
 
-<img width="411" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/764ec757-fd13-41d5-961a-fd66fd8e5659">
+<img width="413" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/eaab32bb-a2ad-4d6c-a015-aee7184bb931">
 
 - `알림` : 참가 신청한 경기가 확정되었거나 경기 결과가 확정되었을 때, 경기 하루 전날 사용자에게 알림을 전달해 주는 기능이다.
 
