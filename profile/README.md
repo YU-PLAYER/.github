@@ -37,11 +37,11 @@
 
 - `사용자 본인 프로필 페이지` : 사용자 본인의 프로필 사진, 사용자 정보, 상태 메세지, 선호 포지션, 전적 정보가 표시되며 공지사항, 안전정보, 신고하기, 프로필 수정 페이지로 이동하는 링크가 있고 로그아웃 버튼과 회원탈퇴 버튼이 있다.
 
-<img width="412" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/354e9fcb-8647-4c5f-bf00-93741dfcfb30">
+<img width="412" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/06a52321-f054-4a3a-9c65-930dcc92bc65">
 
 - `사용자 본인 프로필 수정 페이지` : 사용자 본인의 프로필 사진, 사용자 정보, 상태 메세지, 선호 포지션, 전적 정보를 수정할수 있으며 자신의 프로필 사진, 사용자 정보, 상태 메세지, 전적 정보를 다른 사용자에게 공개할지 말지 공개여부를 선택할 수 있다.
 
-<img width="411" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/0b4465a6-0ed1-4be3-8993-c1738d5b6a49">
+<img width="411" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/3cc1d474-75c4-42ca-ad70-330128d5604e">
 
 - `다른 사용자 프로필 페이지` : 자신이 열람하고싶은 사용자의 프로필 정보 공개여부에 따라 프로필 사진, 사용자 정보, 상태 메세지, 전적 정보가 각각 표시되거나 표시되지않지만 선호 포지션은 항상 표시된다.
 
@@ -76,7 +76,11 @@
 
 <img width="413" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/eaab32bb-a2ad-4d6c-a015-aee7184bb931">
 
-- `알림` : 참가 신청한 경기가 확정되었거나 경기 결과가 확정되었을 때, 경기 하루 전날 사용자에게 알림을 전달해 주는 기능이다.
+- `알림 페이지` : 참가 신청한 경기가 확정되었거나 경기 결과가 확정되었을 때, 경기 하루 전날 사용자에게 알림을 전달해 주는 기능이다.
+
+<img width="413" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/a844ff39-8a3e-423d-ac9d-cecef560e6ff">
+
+- `지도 페이지` : 사용자 주변 경기장을 확인할 수 있도록 지도를 보여주는 기능이다.
 
 ## :hammer: Tech Stack
 
