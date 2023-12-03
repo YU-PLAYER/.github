@@ -16,7 +16,7 @@
 
 - [http://www.sportspie.xyz/](http://www.sportspie.xyz/)
 
-### Explanation
+### Explanation (각 페이지 이름을 클릭하면 펼쳐서 확인해 볼 수 있습니다!)
 
 <details>
 <summary>메인 페이지</summary>
