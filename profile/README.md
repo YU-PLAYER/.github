@@ -21,7 +21,7 @@
 <details>
 <summary>메인 페이지</summary>
 
-<img width="411" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/e982f35e-de0b-4bfe-833d-b63286179829">
+<img width="411" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/69501a22-2680-43c1-b033-8933c8106d78">
 
 - 배너 : 배너에서 축구 관련 대회정보를 확인할 수 있다.
 - 생성된 경기 확인 : 날짜 슬라이더를 이용하여 날짜별 생성된 경기를 확인할 수 있다. 최신순/과거순의 정렬 기능과 제목 검색 기능은 사용자가 부가적으로 선택할 수 있다.
@@ -51,7 +51,7 @@
 <details>
 <summary>사용자 본인 프로필 수정 페이지</summary>
 
-<img width="412" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/06a52321-f054-4a3a-9c65-930dcc92bc65">
+<img width="412" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/d44751f2-9cbf-4fa6-846b-dae12ab023dd">
 
 - 사용자 본인의 프로필 사진, 사용자 정보, 상태 메세지, 선호 포지션, 전적 정보를 수정할수 있으며 자신의 프로필 사진, 사용자 정보, 상태 메세지, 전적 정보를 다른 사용자에게 공개할지 말지 공개여부를 선택할 수 있다.
 
@@ -128,7 +128,7 @@
 <details>
 <summary>안전정보 페이지</summary>
 
-<img width="410" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/6e45fc7b-9ef4-4c0e-9043-2a7cc1557037">
+<img width="411" alt="image" src="https://github.com/YU-PLAYER/.github/assets/68031450/83176cbc-d9ec-43aa-99f9-6dc3b98b7a4d">
 
 - 경기 간 발생할 수 있는 안전사고를 예방하고 알려주기 위한 기능이다.
 
